@@ -1,0 +1,912 @@
+[
+ {
+  "slug": "abraka-",
+  "name": "abraka-",
+  "made": "Piešťany + spolupracujúce dielne na Slovensku, Slovensko",
+  "seat": "Piešťany, Slovensko",
+  "owner": "Andrea Palowska, Nina Kubalová, Ivo Sedlák, Slovensko",
+  "founded": "2017",
+  "web": "https://abrakastore.sk/",
+  "url": "https://lokala.cz/znacka/abraka-"
+ },
+ {
+  "slug": "ahinsa-shoes-",
+  "name": "ahinsa-shoes-",
+  "made": "Koryčany, Česko",
+  "seat": "Praha, Česko",
+  "owner": "Lukáš Klimpera, Česko",
+  "founded": "2011",
+  "web": "https://www.ahinsashoes.cz",
+  "url": "https://lokala.cz/znacka/ahinsa-shoes-"
+ },
+ {
+  "slug": "anniela",
+  "name": "anniela",
+  "made": "Praha, Česko",
+  "seat": "Praha, Česko",
+  "owner": "Anna Havelková, Česko",
+  "founded": "2020",
+  "web": "https://www.anniela.cz",
+  "url": "https://lokala.cz/znacka/anniela"
+ },
+ {
+  "slug": "atex",
+  "name": "atex",
+  "made": "Brno, Jeseník, Česko",
+  "seat": "Brno, Česko",
+  "owner": "O.Sova, A. Fridrichová, M. Fridrich, Česko",
+  "founded": "1992",
+  "web": "http://www.atexsport.cz",
+  "url": "https://lokala.cz/znacka/atex"
+ },
+ {
+  "slug": "bambutik",
+  "name": "bambutik",
+  "made": "Čechy, Česko",
+  "seat": "Praha, Česko",
+  "owner": "Dana a Adam Jermanovi, Česko",
+  "founded": "2010",
+  "web": "https://www.bambutik.cz",
+  "url": "https://lokala.cz/znacka/bambutik"
+ },
+ {
+  "slug": "bapon-stepon",
+  "name": "bapon-stepon",
+  "made": "Počátky, Česko",
+  "seat": "Počátky, Česko",
+  "owner": "D. Nedvědová, H. Šteflová, Česko",
+  "founded": "1993",
+  "web": "https://www.bapon.cz",
+  "url": "https://lokala.cz/znacka/bapon-stepon"
+ },
+ {
+  "slug": "be-lenka",
+  "name": "be-lenka",
+  "made": "Nezjištěno, Česko,Slovensko",
+  "seat": "Žilina, Slovensko",
+  "owner": "Lenka Cenigová , Juraj Fehervári, Slovensko",
+  "founded": "2015",
+  "web": "https://www.belenka.cz",
+  "url": "https://lokala.cz/znacka/be-lenka"
+ },
+ {
+  "slug": "bek-bek",
+  "name": "bek-bek",
+  "made": "Olomouc, Česko, Česko",
+  "seat": "Olomouc, Česko, Česko",
+  "owner": "Eva Mäuthnerová, Česko",
+  "founded": "2020",
+  "web": "http://www.bekbek.cz",
+  "url": "https://lokala.cz/znacka/bek-bek"
+ },
+ {
+  "slug": "bellyboo-",
+  "name": "bellyboo-",
+  "made": "Severní Čechy, Česko",
+  "seat": "Teplice, Česko",
+  "owner": "Tomáš Matejčik a Michaela Matejčiková, Česko",
+  "founded": "2016",
+  "web": "https://www.bellyboo.cz",
+  "url": "https://lokala.cz/znacka/bellyboo-"
+ },
+ {
+  "slug": "benet",
+  "name": "benet",
+  "made": "Červený Kostelec, Česko",
+  "seat": "Červený Kostelec, Česko",
+  "owner": "L. Beneš, P. Beneš, Česko",
+  "founded": "1990",
+  "web": "http://www.benet-ponozky.cz",
+  "url": "https://lokala.cz/znacka/benet"
+ },
+ {
+  "slug": "bewooden",
+  "name": "bewooden",
+  "made": "Fryčovice, Česko",
+  "seat": "Fryčovice, Česko",
+  "owner": "Česko",
+  "founded": "2013",
+  "web": "https://www.bewooden.cz/",
+  "url": "https://lokala.cz/znacka/bewooden"
+ },
+ {
+  "slug": "biosatnik",
+  "name": "biosatnik",
+  "made": "Trutnov, Česko",
+  "seat": "Dílna: Hradební 12, Trutnov, Česko",
+  "owner": "Anna Beránková, Česko",
+  "founded": "2012",
+  "web": "",
+  "url": "https://lokala.cz/znacka/biosatnik"
+ },
+ {
+  "slug": "bjez",
+  "name": "bjez",
+  "made": "Česká republika, Česko",
+  "seat": "Brandýs nad Labem, Česko",
+  "owner": "Bětka Ježková, Česko",
+  "founded": "2015",
+  "web": "https://bjez.cz/",
+  "url": "https://lokala.cz/znacka/bjez"
+ },
+ {
+  "slug": "black-mountain",
+  "name": "black-mountain",
+  "made": "Okolí Liberce, Česko",
+  "seat": "Liberec, Česko",
+  "owner": "L. E. Laštůvková, Česko",
+  "founded": "2011",
+  "web": "https://www.blackmountain.cz",
+  "url": "https://lokala.cz/znacka/black-mountain"
+ },
+ {
+  "slug": "braasi-industry",
+  "name": "braasi-industry",
+  "made": "Praha 7, Česko",
+  "seat": "Praha 7, Česko",
+  "owner": "Eliška a Šimon, Česko",
+  "founded": "2013",
+  "web": "https://www.braasi.com/",
+  "url": "https://lokala.cz/znacka/braasi-industry"
+ },
+ {
+  "slug": "by-apolena",
+  "name": "by-apolena",
+  "made": "Opava, Česko",
+  "seat": "Praha, Česko",
+  "owner": "Apolena Stellarová, Česko",
+  "founded": "2019",
+  "web": "https://www.byapolena.com",
+  "url": "https://lokala.cz/znacka/by-apolena"
+ },
+ {
+  "slug": "candles-aroma",
+  "name": "candles-aroma",
+  "made": "Čerčany - česko, Česko",
+  "seat": "Čerčany, Česko",
+  "owner": "Veronika Harbichova, Česko",
+  "founded": "2019",
+  "web": "https://www.candlesaroma.cz",
+  "url": "https://lokala.cz/znacka/candles-aroma"
+ },
+ {
+  "slug": "castellon-hats-caps",
+  "name": "castellon-hats-caps",
+  "made": "Nasavrky, Česko",
+  "seat": "Nasavrky, Česko",
+  "owner": "Andres Nunez Castellon, Kuba",
+  "founded": "1999",
+  "web": "https://www.aksana.cz",
+  "url": "https://lokala.cz/znacka/castellon-hats-caps"
+ },
+ {
+  "slug": "cici-design",
+  "name": "cici-design",
+  "made": "Severní Čechy, Česko",
+  "seat": "Praha, Česko",
+  "owner": "Barbora Hortová, Česko",
+  "founded": "2020",
+  "web": "https://www.cicidesign.cz",
+  "url": "https://lokala.cz/znacka/cici-design"
+ },
+ {
+  "slug": "city-folklore",
+  "name": "city-folklore",
+  "made": "Ostrava, Česko",
+  "seat": "Ostrava, Česko",
+  "owner": "Petra Sasanca Gherbetz, Česko",
+  "founded": "2011",
+  "web": "https://www.cityfolklore.com/",
+  "url": "https://lokala.cz/znacka/city-folklore"
+ },
+ {
+  "slug": "cleanwear",
+  "name": "cleanwear",
+  "made": "Víchová nad Jizerou, Česko",
+  "seat": "Víchová nad Jizerou, Česko",
+  "owner": "L. Jiřišta, L. Ducháček, Česko",
+  "founded": "2019",
+  "web": "https://www.cleanwear.cz",
+  "url": "https://lokala.cz/znacka/cleanwear"
+ },
+ {
+  "slug": "dlouha-nit",
+  "name": "dlouha-nit",
+  "made": "Brno, Česko",
+  "seat": "Slatina nad Zdobnicí, Česko",
+  "owner": "K. Mačová, Česko",
+  "founded": "2019",
+  "web": "https://dlouhanit.com",
+  "url": "https://lokala.cz/znacka/dlouha-nit"
+ },
+ {
+  "slug": "draps",
+  "name": "draps",
+  "made": "Olomouc, Česko",
+  "seat": "Olomouc, Česko",
+  "owner": "D. Pisková, K. Nezval, T. Nezval, Česko",
+  "founded": "1998",
+  "web": "https://www.draps.cz/",
+  "url": "https://lokala.cz/znacka/draps"
+ },
+ {
+  "slug": "duomamas",
+  "name": "duomamas",
+  "made": "Česká republika, Česko",
+  "seat": "Praha, Česko",
+  "owner": "M. Svoboda, E. Svobodová, Česko",
+  "founded": "2016",
+  "web": "https://www.duomamas.cz",
+  "url": "https://lokala.cz/znacka/duomamas"
+ },
+ {
+  "slug": "dupeto",
+  "name": "dupeto",
+  "made": "Brno, Česko",
+  "seat": "Brno, Česko",
+  "owner": "A. Bartůšková, A. Brunecká, Česko",
+  "founded": "2017",
+  "web": "https://www.dupetoshop.cz",
+  "url": "https://lokala.cz/znacka/dupeto"
+ },
+ {
+  "slug": "eggo",
+  "name": "eggo",
+  "made": "Praha 3, Česko",
+  "seat": "Praha 3, Česko",
+  "owner": "Jakub Jarolím, Česko",
+  "founded": "2011",
+  "web": "https://eggobag.com/",
+  "url": "https://lokala.cz/znacka/eggo"
+ },
+ {
+  "slug": "elega",
+  "name": "elega",
+  "made": "Třebechovice pod Orebem, Česko",
+  "seat": "Třebechovice pod Orebem, Česko",
+  "owner": "E. Šedinová, Česko",
+  "founded": "1992",
+  "web": "https://www.elega.cz",
+  "url": "https://lokala.cz/znacka/elega"
+ },
+ {
+  "slug": "eleven",
+  "name": "eleven",
+  "made": "Jablonec nad Nisou, Česko",
+  "seat": "Jablonec nad Nisou, Česko",
+  "owner": "M. Křenek, Česko",
+  "founded": "2003",
+  "web": "https://www.eleven.cz",
+  "url": "https://lokala.cz/znacka/eleven"
+ },
+ {
+  "slug": "em-everyday-fashion",
+  "name": "em-everyday-fashion",
+  "made": "Přelouč, Česko",
+  "seat": "Přelouč, Česko",
+  "owner": "Marťa a Zazu, Česko",
+  "founded": "2018",
+  "web": "https://www.emfashion.cz",
+  "url": "https://lokala.cz/znacka/em-everyday-fashion"
+ },
+ {
+  "slug": "evona",
+  "name": "evona",
+  "made": "Chrudim, Česko",
+  "seat": "Chrudim, Česko",
+  "owner": "R. Khom, I. M. Khomová, Česko",
+  "founded": "1968",
+  "web": "https://www.evona.cz",
+  "url": "https://lokala.cz/znacka/evona"
+ },
+ {
+  "slug": "fraise",
+  "name": "fraise",
+  "made": "Děčín, Česko",
+  "seat": "Děčín, Česko",
+  "owner": "K. Jahodová, Česko",
+  "founded": "2011",
+  "web": "http://www.fraise.cz",
+  "url": "https://lokala.cz/znacka/fraise"
+ },
+ {
+  "slug": "galago",
+  "name": "galago",
+  "made": "Brno, Česko",
+  "seat": "Brno, Česko",
+  "owner": "Marta Čtvrtníčková, Česko",
+  "founded": "2020",
+  "web": "https://www.galago.cz/",
+  "url": "https://lokala.cz/znacka/galago"
+ },
+ {
+  "slug": "high-point",
+  "name": "high-point",
+  "made": "Sušice, Česko",
+  "seat": "Sušice, Česko",
+  "owner": "Z. Schwarzkopf, Česko",
+  "founded": "1990",
+  "web": "https://www.highpoint.cz",
+  "url": "https://lokala.cz/znacka/high-point"
+ },
+ {
+  "slug": "jitex",
+  "name": "jitex",
+  "made": "Nezjištěno, Česko",
+  "seat": "Písek, Česko",
+  "owner": "Česko",
+  "founded": "1997",
+  "web": "http://jitex-comfort.cz",
+  "url": "https://lokala.cz/znacka/jitex"
+ },
+ {
+  "slug": "jordis-ceska-remeslna-cokolada",
+  "name": "jordis-ceska-remeslna-cokolada",
+  "made": "Třebechovice pod Orebem, Česko",
+  "seat": "Špitálská 149, Hradec Králové, Česko",
+  "owner": "Jiří Stejskal, Lukáš Koudelka, Česko",
+  "founded": "2010",
+  "web": "https://www.jordis.cz",
+  "url": "https://lokala.cz/znacka/jordis-ceska-remeslna-cokolada"
+ },
+ {
+  "slug": "kama",
+  "name": "kama",
+  "made": "Praha 6, Česko",
+  "seat": "Praha 6, Česko",
+  "owner": "Mahulena, Klára a Adam Pertlovi, Česko",
+  "founded": "1989",
+  "web": "https://www.kama.cz",
+  "url": "https://lokala.cz/znacka/kama"
+ },
+ {
+  "slug": "kazdy-den-je-dar-1",
+  "name": "kazdy-den-je-dar-1",
+  "made": "Nezjištěno, Česko",
+  "seat": "Hradec Králové, Česko",
+  "owner": "Pavla Černohousová, Bořivoj Horyna, Česko",
+  "founded": "2018",
+  "web": "",
+  "url": "https://lokala.cz/znacka/kazdy-den-je-dar-1"
+ },
+ {
+  "slug": "koa-koa-merino-more",
+  "name": "koa-koa-merino-more",
+  "made": "Česko, Česko",
+  "seat": "Praha, Česko",
+  "owner": "Karolína Lauferová, Česko",
+  "founded": "2017",
+  "web": "https://www.koakoa.cz",
+  "url": "https://lokala.cz/znacka/koa-koa-merino-more"
+ },
+ {
+  "slug": "kotoloc",
+  "name": "kotoloc",
+  "made": "Česko, Česko",
+  "seat": "Praha, Česko",
+  "owner": "Marketa Brázdová, Česko",
+  "founded": "2018",
+  "web": "https://www.kotoloc.cz",
+  "url": "https://lokala.cz/znacka/kotoloc"
+ },
+ {
+  "slug": "kousek",
+  "name": "kousek",
+  "made": "Brno, Česko",
+  "seat": "Brno, Česko",
+  "owner": "Klára Hlavatá, Česko",
+  "founded": "2018",
+  "web": "https://www.mujkousek.cz/",
+  "url": "https://lokala.cz/znacka/kousek"
+ },
+ {
+  "slug": "kubat-kuze",
+  "name": "kubat-kuze",
+  "made": "Lázně Bělohrad - Brtev, Česko",
+  "seat": "Lázně Bělohrad, Česko",
+  "owner": "Jan Kubát, Česko",
+  "founded": "1988",
+  "web": "https://www.kubatkuze.cz/",
+  "url": "https://lokala.cz/znacka/kubat-kuze"
+ },
+ {
+  "slug": "lamido",
+  "name": "lamido",
+  "made": "Sebranice u Litomyšle, Česko",
+  "seat": "Sebranice u Litomyšle, Česko",
+  "owner": "Česko, Česko",
+  "founded": "1993",
+  "web": "https://www.lamido.cz",
+  "url": "https://lokala.cz/znacka/lamido"
+ },
+ {
+  "slug": "lawi",
+  "name": "lawi",
+  "made": "Dobrovice, Česko",
+  "seat": "Dobrovice, Česko",
+  "owner": "J. Malý, Česko",
+  "founded": "2004",
+  "web": "https://lawi.cz/",
+  "url": "https://lokala.cz/znacka/lawi"
+ },
+ {
+  "slug": "litex",
+  "name": "litex",
+  "made": "Litomyšl, Česko",
+  "seat": "Litomyšl, Česko",
+  "owner": "R. Skřivan, Česko",
+  "founded": "1991",
+  "web": "https://www.litex.cz/",
+  "url": "https://lokala.cz/znacka/litex"
+ },
+ {
+  "slug": "lokoko",
+  "name": "lokoko",
+  "made": "Brno, Česko",
+  "seat": "Kigginsova 1530/4, Brno, Česko",
+  "owner": "Lukáš a Lenka, Česko",
+  "founded": "2015",
+  "web": "https://www.lokoko.cz",
+  "url": "https://lokala.cz/znacka/lokoko"
+ },
+ {
+  "slug": "lorii",
+  "name": "lorii",
+  "made": "Plzeň, Česko",
+  "seat": "Plzeň, Česko",
+  "owner": "Petra Lorencová, Česko",
+  "founded": "2016",
+  "web": "https://www.lorii.cz/",
+  "url": "https://lokala.cz/znacka/lorii"
+ },
+ {
+  "slug": "lovemusic",
+  "name": "lovemusic",
+  "made": "Brno, Česko",
+  "seat": "Brno, Česko",
+  "owner": "Kateřina Pletichová, Česko",
+  "founded": "2008",
+  "web": "https://www.lovemusic.cz/",
+  "url": "https://lokala.cz/znacka/lovemusic"
+ },
+ {
+  "slug": "lull",
+  "name": "lull",
+  "made": "Nezjištěno, Slovensko",
+  "seat": "Šaštín-Stráže, Slovensko",
+  "owner": "Z. Bačkádyová, E. Šebo, Slovensko",
+  "founded": "2010",
+  "web": "https://www.lull.sk",
+  "url": "https://lokala.cz/znacka/lull"
+ },
+ {
+  "slug": "madeinles",
+  "name": "madeinles",
+  "made": "Opava, Česko",
+  "seat": "Opava, Česko",
+  "owner": "Radka Vaňková, Česko",
+  "founded": "2018",
+  "web": "https://www.madeinles.cz",
+  "url": "https://lokala.cz/znacka/madeinles"
+ },
+ {
+  "slug": "maia",
+  "name": "maia",
+  "made": "Valašské Meziříčí, Česko",
+  "seat": "Valašské Meziříčí, Česko",
+  "owner": "R. Novosadová Mikulůvka, Česko",
+  "founded": "2018",
+  "web": "https://www.maiashop.cz",
+  "url": "https://lokala.cz/znacka/maia"
+ },
+ {
+  "slug": "majtki",
+  "name": "majtki",
+  "made": "Moravské Knínice, Česko",
+  "seat": "Moravské Knínice, Česko",
+  "owner": "Petra Folwarczná, Česko",
+  "founded": "2020",
+  "web": "https://www.majtki.cz/",
+  "url": "https://lokala.cz/znacka/majtki"
+ },
+ {
+  "slug": "masha",
+  "name": "masha",
+  "made": "Chodov, Chomutov, Česko",
+  "seat": "Chodov / Plzeňský kraj, Česko",
+  "owner": "Marie Syrovátková, Česko",
+  "founded": "2018",
+  "web": "http://www.mariesyrovatkova.cz/",
+  "url": "https://lokala.cz/znacka/masha"
+ },
+ {
+  "slug": "mekousi",
+  "name": "mekousi",
+  "made": "Šumavská, Česko",
+  "seat": "Brno, Česko",
+  "owner": "Viktoria Rýznarová, Česko",
+  "founded": "2018",
+  "web": "https://mekousi.cz/",
+  "url": "https://lokala.cz/znacka/mekousi"
+ },
+ {
+  "slug": "merilen",
+  "name": "merilen",
+  "made": "Višňové u Znojma, Česko",
+  "seat": "Višňové u Znojma / Brno, Česko",
+  "owner": "sestřenice Jana a Eva, Česko",
+  "founded": "2020",
+  "web": "https://www.merilen.cz/",
+  "url": "https://lokala.cz/znacka/merilen"
+ },
+ {
+  "slug": "mill",
+  "name": "mill",
+  "made": "Česká republika, Česko",
+  "seat": "Brno, Česko",
+  "owner": "Mgr. Pavel Mlýnek, Česko",
+  "founded": "1992",
+  "web": "http://www.mill.cz/",
+  "url": "https://lokala.cz/znacka/mill"
+ },
+ {
+  "slug": "minile",
+  "name": "minile",
+  "made": "Podkrkonoší, Česko",
+  "seat": "Praha, Česko",
+  "owner": "Leona Průchová, Česko",
+  "founded": "2015",
+  "web": "https://minile.cz/",
+  "url": "https://lokala.cz/znacka/minile"
+ },
+ {
+  "slug": "mipon-ponozky-z-moravskeho-krasu",
+  "name": "mipon-ponozky-z-moravskeho-krasu",
+  "made": "Sloup, Česko",
+  "seat": "Sloup, Česko",
+  "owner": "L. Bartoňová, Česko",
+  "founded": "1993",
+  "web": "https://www.mipon.eu",
+  "url": "https://lokala.cz/znacka/mipon-ponozky-z-moravskeho-krasu"
+ },
+ {
+  "slug": "moira",
+  "name": "moira",
+  "made": "Strakonice, Česko",
+  "seat": "Strakonice, Česko",
+  "owner": "M. Vlček, Česko",
+  "founded": "1991",
+  "web": "https://moira.cz",
+  "url": "https://lokala.cz/znacka/moira"
+ },
+ {
+  "slug": "montmat",
+  "name": "montmat",
+  "made": "Brno, Česko",
+  "seat": "Návrší Svobody 22, Brno, 62300, Česko",
+  "owner": "Dana Crlíková, Česko",
+  "founded": "2015",
+  "web": "https://www.montmat.cz",
+  "url": "https://lokala.cz/znacka/montmat"
+ },
+ {
+  "slug": "mooq",
+  "name": "mooq",
+  "made": "Vysočina, Česko",
+  "seat": "Jihlava, Česko",
+  "owner": "O. Šmída, P. Juřík, Česko",
+  "founded": "2019",
+  "web": "https://mooq.cz/",
+  "url": "https://lokala.cz/znacka/mooq"
+ },
+ {
+  "slug": "morango",
+  "name": "morango",
+  "made": "Nezjištěno, Česko",
+  "seat": "Dačice, Česko",
+  "owner": "P. Jahoda, Česko",
+  "founded": "2009",
+  "web": "http://www.morango.cz",
+  "url": "https://lokala.cz/znacka/morango"
+ },
+ {
+  "slug": "morecy",
+  "name": "morecy",
+  "made": "Kotvrdovice, Česko",
+  "seat": "Kotvrdovice 192, Česko",
+  "owner": "Monika Fleknová, Česko",
+  "founded": "2019",
+  "web": "https://www.morecy.cz",
+  "url": "https://lokala.cz/znacka/morecy"
+ },
+ {
+  "slug": "na-kopecku",
+  "name": "na-kopecku",
+  "made": "Krupka, Česko",
+  "seat": "Krupka, Česko",
+  "owner": "Karolína Podstavcová, Česko",
+  "founded": "2019",
+  "web": "http://www.na-kopecku.cz",
+  "url": "https://lokala.cz/znacka/na-kopecku"
+ },
+ {
+  "slug": "nanosilver",
+  "name": "nanosilver",
+  "made": "Nezjištěno, Česko",
+  "seat": "Olomouc, Česko",
+  "owner": "Ing. Ladislav Torčík, Česko",
+  "founded": "2004",
+  "web": "https://www.nanosilver.cz/",
+  "url": "https://lokala.cz/znacka/nanosilver"
+ },
+ {
+  "slug": "ocun",
+  "name": "ocun",
+  "made": "Bělé pod Bezdězem, Česko",
+  "seat": "Polička, Česko",
+  "owner": "P. Hendrych, Česko",
+  "founded": "1998",
+  "web": "https://www.ocun.com",
+  "url": "https://lokala.cz/znacka/ocun"
+ },
+ {
+  "slug": "okkofashion",
+  "name": "okkofashion",
+  "made": "Česko, Česko",
+  "seat": "78401 Litovel, Česko",
+  "owner": "Oksana Gottwaldová, Česko",
+  "founded": "2010",
+  "web": "https://www.okkofashion.cz",
+  "url": "https://lokala.cz/znacka/okkofashion"
+ },
+ {
+  "slug": "one-village",
+  "name": "one-village",
+  "made": "Klatovy, Česko",
+  "seat": "Sušice, Česko",
+  "owner": "Zuzana Sedlecká, Česko",
+  "founded": "2019",
+  "web": "https://www.onevillage.cz",
+  "url": "https://lokala.cz/znacka/one-village"
+ },
+ {
+  "slug": "opasky-jurca",
+  "name": "opasky-jurca",
+  "made": "Napajedla, Česko",
+  "seat": "Napajedla, Česko",
+  "owner": "J. Jurča, Česko",
+  "founded": "1995",
+  "web": "https://www.opaskyjurca.cz",
+  "url": "https://lokala.cz/znacka/opasky-jurca"
+ },
+ {
+  "slug": "paon-label",
+  "name": "paon-label",
+  "made": "Štramberk, Česko",
+  "seat": "Praha, Česko",
+  "owner": "A. Kopalová, V. Staněk, T. R.Burmaa, Česko",
+  "founded": "2016",
+  "web": "https://www.paonlabel.com/",
+  "url": "https://lokala.cz/znacka/paon-label"
+ },
+ {
+  "slug": "patrick-poppet",
+  "name": "patrick-poppet",
+  "made": "Nezjištěno, Česko",
+  "seat": "Praha, Česko",
+  "owner": "Lucie Kalousová, Česko",
+  "founded": "2017",
+  "web": "https://www.patrickpoppet.cz",
+  "url": "https://lokala.cz/znacka/patrick-poppet"
+ },
+ {
+  "slug": "pingu-sport",
+  "name": "pingu-sport",
+  "made": "Holešov, Česko",
+  "seat": "Holešov, Česko",
+  "owner": "Pavel Kubíček, Irena Kubíčková, Česko",
+  "founded": "1993",
+  "web": "",
+  "url": "https://lokala.cz/znacka/pingu-sport"
+ },
+ {
+  "slug": "prabos",
+  "name": "prabos",
+  "made": "Slavičín Česko, Česko",
+  "seat": "Slavičín, Česko",
+  "owner": "Ing. Juraj Vozár, Ing. Jaroslav Palát, Česko",
+  "founded": "1860",
+  "web": "https://www.prabos.cz",
+  "url": "https://lokala.cz/znacka/prabos"
+ },
+ {
+  "slug": "rejoice",
+  "name": "rejoice",
+  "made": "Vysočina, Česko",
+  "seat": "Batelov, Česko",
+  "owner": "Roman a Libor Venkrbcovi, Vladimír Kovář, Česko",
+  "founded": "1998",
+  "web": "https://www.rejoice.cz",
+  "url": "https://lokala.cz/znacka/rejoice"
+ },
+ {
+  "slug": "remon-by-rebeka-monhartova",
+  "name": "remon-by-rebeka-monhartova",
+  "made": "Praha, Česko",
+  "seat": "Praha, Česko",
+  "owner": "Rebeka Heimlich Monhartová, Česko",
+  "founded": "2016",
+  "web": "http://www.remonbyrebeka.com",
+  "url": "https://lokala.cz/znacka/remon-by-rebeka-monhartova"
+ },
+ {
+  "slug": "renata-janco",
+  "name": "renata-janco",
+  "made": "Olomouc, Česko",
+  "seat": "Olomouc, Česko",
+  "owner": "Renáta Jančo, Česko",
+  "founded": "2015",
+  "web": "https://www.jancodesign.cz",
+  "url": "https://lokala.cz/znacka/renata-janco"
+ },
+ {
+  "slug": "roe",
+  "name": "roe",
+  "made": "Praha, Česko",
+  "seat": "Praha, Česko",
+  "owner": "Linda Retterová, Česko",
+  "founded": "2014",
+  "web": "http://www.retterova.com",
+  "url": "https://lokala.cz/znacka/roe"
+ },
+ {
+  "slug": "sasu-cz",
+  "name": "sasu-cz",
+  "made": "Uherský Ostroh, Česko",
+  "seat": "Uherský Ostroh, Česko",
+  "owner": "Bc. Lenka Zdráhalová, Česko",
+  "founded": "2018",
+  "web": "https://www.sasu.cz",
+  "url": "https://lokala.cz/znacka/sasu-cz"
+ },
+ {
+  "slug": "sokino",
+  "name": "sokino",
+  "made": "Vysočina, Česko",
+  "seat": "Slaný, Česko",
+  "owner": "Bc. Viera Kotulánová, Slovensko",
+  "founded": "2017",
+  "web": "https://www.sokino.cz/",
+  "url": "https://lokala.cz/znacka/sokino"
+ },
+ {
+  "slug": "spolu-label",
+  "name": "spolu-label",
+  "made": "Havířov, Česko",
+  "seat": "Havířov, Česko",
+  "owner": "Veronika Konečná, Veronika Wisiorková, Česko",
+  "founded": "2020",
+  "web": "https://www.spolulabel.cz",
+  "url": "https://lokala.cz/znacka/spolu-label"
+ },
+ {
+  "slug": "summer-myles",
+  "name": "summer-myles",
+  "made": "Orlová, Moravskoslezský kraj, Česko",
+  "seat": "Petřvald na Moravě, 74260, Česko",
+  "owner": "Daniel Kužela (El Grifo, z.s.), Česko",
+  "founded": "2017",
+  "web": "https://www.summermyles.cz",
+  "url": "https://lokala.cz/znacka/summer-myles"
+ },
+ {
+  "slug": "svetr-s-jelenem",
+  "name": "svetr-s-jelenem",
+  "made": "Česká Republika, Česko",
+  "seat": "Říčany, Česko",
+  "owner": "Jelen, král českých luhů a hájů:), Česko",
+  "founded": "2015",
+  "web": "",
+  "url": "https://lokala.cz/znacka/svetr-s-jelenem"
+ },
+ {
+  "slug": "tilak",
+  "name": "tilak",
+  "made": "Šumperk, Česko",
+  "seat": "Šumperk, Česko",
+  "owner": "Roman Kamler, Česko",
+  "founded": "1986",
+  "web": "https://www.tilak.cz/",
+  "url": "https://lokala.cz/znacka/tilak"
+ },
+ {
+  "slug": "tkalcovna-kubak",
+  "name": "tkalcovna-kubak",
+  "made": "Strmilov, Česko",
+  "seat": "Strmilov, Česko",
+  "owner": "Filip Kubák, Zdeněk Kubák, Česko",
+  "founded": "1870",
+  "web": "https://tkalcovna.cz/",
+  "url": "https://lokala.cz/znacka/tkalcovna-kubak"
+ },
+ {
+  "slug": "tykraso",
+  "name": "tykraso",
+  "made": "Brno, Česko",
+  "seat": "Brno, Česko",
+  "owner": "Lucie Schrámek, Česko",
+  "founded": "2019",
+  "web": "",
+  "url": "https://lokala.cz/znacka/tykraso"
+ },
+ {
+  "slug": "vabacci",
+  "name": "vabacci",
+  "made": "Hulín, Česko",
+  "seat": "Praha, Česko",
+  "owner": "H. Jurková, Česko",
+  "founded": "2001",
+  "web": "https://www.vabacci.com",
+  "url": "https://lokala.cz/znacka/vabacci"
+ },
+ {
+  "slug": "vasky",
+  "name": "vasky",
+  "made": "Zlín, Česko",
+  "seat": "Zlín, Česko",
+  "owner": "V. Staněk, Česko",
+  "founded": "2016",
+  "web": "https://vasky.cz",
+  "url": "https://lokala.cz/znacka/vasky"
+ },
+ {
+  "slug": "wild-walk",
+  "name": "wild-walk",
+  "made": "Praha, Česko",
+  "seat": "Praha, Česko",
+  "owner": "Tereza Pěnková, Česko",
+  "founded": "2019",
+  "web": "https://www.wildwalk.eu",
+  "url": "https://lokala.cz/znacka/wild-walk"
+ },
+ {
+  "slug": "woxkon",
+  "name": "woxkon",
+  "made": "Prostějov, Česko",
+  "seat": "Kravaře, Česko",
+  "owner": "D. Kubný, Česko",
+  "founded": "2016",
+  "web": "https://www.woxkon.cz",
+  "url": "https://lokala.cz/znacka/woxkon"
+ },
+ {
+  "slug": "yona-knitwear",
+  "name": "yona-knitwear",
+  "made": "Brno, Česko",
+  "seat": "Brno, Česko",
+  "owner": "Yvona Hlavatá, Česko",
+  "founded": "2020",
+  "web": "https://www.yonaknitwear.com",
+  "url": "https://lokala.cz/znacka/yona-knitwear"
+ },
+ {
+  "slug": "your-star",
+  "name": "your-star",
+  "made": "Praha, Česko",
+  "seat": "Jesenice, Česko",
+  "owner": "Zuzana a Petr Ludvíkovi, Česko",
+  "founded": "2017",
+  "web": "https://www.yourstar.cz",
+  "url": "https://lokala.cz/znacka/your-star"
+ },
+ {
+  "slug": "zkama",
+  "name": "zkama",
+  "made": "Zlín, Česko",
+  "seat": "Zlín, Česko",
+  "owner": "F. Husák, Česko",
+  "founded": "2017",
+  "web": "https://zkama.cz/",
+  "url": "https://lokala.cz/znacka/zkama"
+ }
+]
